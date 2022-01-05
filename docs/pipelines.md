@@ -1,7 +1,7 @@
 # Pipelines
 
-> You can run this markdown file: 
-> 
+> You can run this markdown file:
+>
 > ```
 > yzx docs/pipelines.md
 > ```
@@ -54,7 +54,7 @@ let greeting = await $`printf "hello"`
 console.log(greeting.stdout)
 ```
 
-Use combinations of `pipe()` and [`nothrow()`](https://github.com/eraviart/yzx#nothrow):
+Use combinations of `pipe()` and [`nothrow()`](https://github.com/frielforreal/yzx#nothrow):
 
 ```js
 await $`find ./examples -type f -print0`

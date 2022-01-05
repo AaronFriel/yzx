@@ -1,6 +1,6 @@
 {
   "name": "@frielforreal/yzx",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "A tool for writing better concurrent scripts",
   "main": "./dist/index.cjs",
   "exports": {
@@ -50,7 +50,7 @@
     "*.d.ts",
     "dist"
   ],
-  "repository": "eraviart/yzx",
+  "repository": "frielforreal/yzx",
   "author": "Anton Medvedev <anton@medv.io>",
   "license": "Apache-2.0"
 }
